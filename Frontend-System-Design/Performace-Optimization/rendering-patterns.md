@@ -32,7 +32,7 @@ Three locations where rendering can happen:
 │              RSC mixes Server + Client                     │
 └────────────────────────────────────────────────────────────┘
 ```
-
+<img src="../../Assets/rendering_patterns_visual.svg" alt="Diagram" width="100%">
 ---
 
 ## 1. Client-Side Rendering (CSR)
